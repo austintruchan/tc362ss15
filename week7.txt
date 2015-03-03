@@ -1,0 +1,4 @@
+Server IP : 104.236.234.129
+
+Domain : austintruchan.space
+Sub : subdomain.austintruchan.space
